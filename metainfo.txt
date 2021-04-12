@@ -1,0 +1,14 @@
+
+Name of Quantlet: FRM_Expectile
+
+Published in: 'SSRN'
+
+Description: 'Financial Risk Meter Based on Expectiles'
+
+Keywords: 'Expectiles, EVaR, CoEVaR, expectile lasso regression, network analysis, systemic risk, Financial Risk Meter'
+
+Author: 'Rui REN'
+
+See also: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3809329'
+
+Submitted:  '12.04.2021'
